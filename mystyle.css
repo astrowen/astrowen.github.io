@@ -1,0 +1,14 @@
+h1 {
+    color: maroon;
+}
+body {
+    background-color: rgb(139, 144, 169)
+}
+
+#content {
+    width: 800px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
