@@ -1,13 +1,18 @@
 h1 {
     color: maroon;
+    background-color: white
 }
 body {
-    background-color: rgb(139, 144, 169)
+    background-image: url('myBackground.png');
+}
+
+p {
+    background-color: white
 }
 
 #content {
     width: 800px;
-    padding: 20px;
+    padding: px;
     margin-left: auto;
     margin-right: auto;
 
